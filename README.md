@@ -224,11 +224,3 @@ This project is developed and maintained by Samuel O. Momoh (GRIITTYY).
 ---
 
 *Built with ❤️ using Streamlit, Plotly, PyMuPDF, HTML, and CSS*
-
-## 🌐 Live Demo
-
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 1rem; border-radius: 10px; text-align: center; margin: 1rem 0;">
-  <h3>🚀 Try FinSight Now!</h3>
-  <p><strong><a href="https://finsight-app.streamlit.app" style="color: white;">Launch Live Demo →</a></strong></p>
-  <p><em>No installation required - Upload and analyze instantly!</em></p>
-</div>
