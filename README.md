@@ -4,6 +4,13 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
 [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
 
+## 🌐 Live Demo
+
+🚀 **[Try FinSight Live](https://finsight-app.streamlit.app)** - No installation required!
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Try%20Now-brightgreen?style=for-the-badge&logo=streamlit)](https://finsight-app.streamlit.app)
+
+
 > **Analyze Bank Statements Effortlessly** - Upload your PDF bank statements and instantly visualize inflow & outflow trends, detect anomalies, and gain financial insights.
 
 ## 🚀 Features
@@ -185,6 +192,14 @@ This project is developed and maintained by Samuel O. Momoh (GRIITTYY).
 - **v1.1.0** (Current) - Enhanced UI, anomaly detection, and comprehensive analytics
 - **v1.0.0** - Initial release with basic OPay statement processing
 
+<div align="center">
+
+## 🌐 [🚀 **LIVE DEMO - TRY NOW** 🚀](https://finsight-app.streamlit.app)
+
+*No installation required - Analyze your bank statements instantly!*
+
+</div>
+
 ## 🙏 Acknowledgments
 
 - **Streamlit** - For the amazing web app framework
@@ -209,3 +224,11 @@ This project is developed and maintained by Samuel O. Momoh (GRIITTYY).
 ---
 
 *Built with ❤️ using Streamlit, Plotly, PyMuPDF, HTML, and CSS*
+
+## 🌐 Live Demo
+
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 1rem; border-radius: 10px; text-align: center; margin: 1rem 0;">
+  <h3>🚀 Try FinSight Now!</h3>
+  <p><strong><a href="https://finsight-app.streamlit.app" style="color: white;">Launch Live Demo →</a></strong></p>
+  <p><em>No installation required - Upload and analyze instantly!</em></p>
+</div>
