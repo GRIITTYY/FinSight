@@ -187,10 +187,6 @@ finsight/
 
 This project is developed and maintained by Samuel O. Momoh (GRIITTYY).
 
-## 🔄 Version History
-
-- **v1.1.0** (Current) - Enhanced UI, anomaly detection, and comprehensive analytics
-- **v1.0.0** - Initial release with basic OPay statement processing
 
 <div align="center">
 
