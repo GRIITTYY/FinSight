@@ -361,12 +361,20 @@ if app_pages == "Welcome":
                         <h4 style="margin: 0; color: #1e40af; font-size: 1.1rem;">Download Your Data</h4>
                     </div>
                     <p style="margin: 0; color: #1d4ed8; font-size: 0.95rem;">
-                        Use the download button above to get your original bank statement in Excel format for offline analysis.
+                        Below is a preview of your processed Bank Statement. You can use the download button above to download your statement in Excel format now.
                     </p>
                 </div>
                 """, unsafe_allow_html=True)
+                
 
-                st.dataframe(st.session_state.df)
+                st.dataframe(st.session_state.df[["Trans Time",
+                              "Date",
+                              "Description",
+                              "Amount",	
+                              "Balance",
+                              "Channel",
+                              "Reference",
+                              "Type"]])
             else:
                 st.markdown("""
                 <div style="background: linear-gradient(135deg, #fee2e2 0%, #fecaca 100%); border-left: 6px solid #dc2626; border-radius: 12px; padding: 1.5rem; margin: 2rem 0; box-shadow: 0 4px 6px rgba(220, 38, 38, 0.1);">
